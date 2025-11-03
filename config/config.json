@@ -1,0 +1,15 @@
+{
+  "camera": {
+    "index": "auto",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "backend": "msmf",
+    "flip": false
+  },
+  "ui": {
+    "window_name": "PoolVision - Live",
+    "show_fps": true,
+    "max_display_width": 1600
+  }
+}
