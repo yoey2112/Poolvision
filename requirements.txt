@@ -1,2 +1,7 @@
-opencv-contrib-python
-numpy
+fastapi==0.104.1
+uvicorn==0.23.2
+opencv-python==4.8.1.78
+numpy==1.24.4
+sqlmodel==0.0.8
+pydantic==1.10.8
+scipy==1.10.1
