@@ -3,13 +3,15 @@
     "index": "auto",
     "width": 1280,
     "height": 720,
-    "fps": 30,
-    "backend": "msmf",
-    "flip": false
+    "fps": 20,
+    "backend": "dshow",
+    "flip": false,
+    "prefer_mjpg": true
   },
   "ui": {
-    "window_name": "PoolVision - Live",
-    "show_fps": true,
-    "max_display_width": 1600
+    "window_name": "PoolVision - Live"
+  },
+  "runtime": {
+    "downscale": 0.5
   }
 }
